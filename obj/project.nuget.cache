@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j/2eiJ8WedsCaMbHQ33S6n6j7pv6cy+3XoDfq6wWEvz5r7lJgfc0ccb0PQxdel7kmw+TnxMoIekDiSS29srlpw==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Dev\\PracticeProject\\Docker\\AspnetCoreDocker\\AspnetCoreDocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrishnR6\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
